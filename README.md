@@ -22,7 +22,7 @@
   <img align="center" alt="YngvirWarrior-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <!-- <img align="center" alt="YngvirWarrior-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"> -->
   <!-- <img align="center" alt="YngvirWarrior-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"> -->
-  <img align="right" alt="YngvirWarrior-pic" height="150" width="200" style="border-radius:50px;" src="https://www.comboinfinito.com.br/principal/wp-content/uploads/2021/09/Berserk-vol-41.jpg">
+  <img align="right" alt="YngvirWarrior-pic" height="150" width="250" style="border-radius:50px;" src="https://www.comboinfinito.com.br/principal/wp-content/uploads/2021/09/Berserk-vol-41.jpg">
 </div>
   
   ##
