@@ -4,9 +4,9 @@
 **YngviWarrior/yngviwarrior** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-- 🌱 I’m currently learning advanced usage into GoLang.
+- 🌱 I’m currently working into an binary option project using NodeJS.
 - 👯 I’m looking to collaborate on Cripto Market.
-- 🤔 I’m looking for help with new implementations, api's and business rules.
+- 🤔 I’m looking oportunities to create new, api's and business rules.
 - ⚡ Fun fact: Tired of coding about marketing bullshit.
 
 <div align="center">
