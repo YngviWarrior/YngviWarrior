@@ -5,9 +5,9 @@
 -->
 
 - 🌱 I’m currently working into an binary option project using NodeJS.
-- 👯 I’m looking to collaborate on Cripto Market.
-- 🤔 I’m looking oportunities to create new, api's and business rules.
-- ⚡ Fun fact: Tired of coding about marketing bullshit.
+- 👯 I’m looking to collaborate on Cripto Market developing tools on Web3.
+- 🤔 I’m looking oportunities to create new, api's and business rules on Web3 universe.
+- ⚡ Fun fact: Tired of coding about marketing.
 
 <div align="center">
   <a href="https://github.com/YngviWarrior">
