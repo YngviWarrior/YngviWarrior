@@ -4,7 +4,7 @@
 **YngviWarrior/yngviwarrior** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-- 🌱 I’m currently working into an binary option project using NodeJS.
+- 🌱 I’m currently working into an binary option project.
 - 👯 I’m looking to collaborate on Cripto Market developing tools on Web3.
 - 🤔 I’m looking oportunities to create new, api's and business rules on Web3 universe.
 - ⚡ Fun fact: Tired of coding about marketing.
@@ -20,7 +20,7 @@
   <img align="center" alt="YngvirWarrior-JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="YngvirWarrior-PHP" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg">       
   <img align="center" alt="YngvirWarrior-GoLang" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg">
-  <img align="center" alt="YngvirWarrior-Solidity" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/solidity/solidity-original.svg">    
+  <!-- <img align="center" alt="YngvirWarrior-Solidity" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/solidity/solidity-original.svg">     -->
   <img align="center" alt="YngvirWarrior-NodeJS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
   <img align="center" alt="YngvirWarrior-Vue" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg">
   <img align="center" alt="YngvirWarrior-React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"> 
