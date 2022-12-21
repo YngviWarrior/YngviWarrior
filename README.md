@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently working into an binary option project.
 - 👯 I’m looking to collaborate on Cripto Market developing tools on Web3.
-- 🤔 I’m looking oportunities to create new, api's and business rules on Web3 universe.
+- 🤔 I'm looking opportunities to develop and engennier into Web3 universe.
 - ⚡ Fun fact: Tired of coding about marketing.
 
 <div align="center">
