@@ -7,7 +7,7 @@
 - 🌱 I’m currently working into an binary option project.
 - 👯 I’m looking to collaborate on Cripto Market developing tools on Web3.
 - 🤔 I'm looking opportunities to develop and engennier into Web3 universe.
-- ⚡ Fun fact: I want to learn, and become an great investor.
+- ⚡ Fun fact: I want to become an great investor.
 
 <div align="center">
   <a href="https://github.com/YngviWarrior">
