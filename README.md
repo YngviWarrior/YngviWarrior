@@ -1,4 +1,4 @@
-### Be Welcome! To YngviWarrior's Repository  👋
+### Be Welcome! To Igor's Repository  👋
 
 <!--
 **YngviWarrior/yngviwarrior** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
