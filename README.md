@@ -4,10 +4,10 @@
 **YngviWarrior/yngviwarrior** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-- 🌱 I’m currently working into an binary option project.
-- 👯 I’m looking to collaborate on Cripto Market developing tools on Web3.
-- 🤔 I'm looking opportunities to develop and engennier into Web3 universe.
-- ⚡ Fun fact: I want to become an great investor.
+- 🌱 I’m currently working into a cryptoasset trader automation.
+- 👯 I’m looking to collaborate on financial solutions.
+- 🤔 I think we need to improve always, but in a sustentable way.
+- ⚡ Fun fact: I want to become an great investor and helping good companies, for a better world.
 
 <div align="center">
   <a href="https://github.com/YngviWarrior">
