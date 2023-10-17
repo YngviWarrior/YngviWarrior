@@ -4,7 +4,7 @@
 **YngviWarrior/yngviwarrior** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-- 🌱 I’m currently working into a cryptoasset trader automation.
+- 🌱 I’m a Golang developer.
 - 👯 I’m looking to collaborate on financial solutions.
 - 🤔 I think we need always improve ourselves, but in a sustentable way.
 - ⚡ Fun fact: I am an investor, i like to see my money grows.
