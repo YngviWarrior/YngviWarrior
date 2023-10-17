@@ -6,8 +6,8 @@
 
 - 🌱 I’m currently working into a cryptoasset trader automation.
 - 👯 I’m looking to collaborate on financial solutions.
-- 🤔 I think we need to improve always, but in a sustentable way.
-- ⚡ Fun fact: I want to become an great investor and helping good companies, for a better world.
+- 🤔 I think we need always improve ourselves, but in a sustentable way.
+- ⚡ Fun fact: I am an investor, i like to see my money grows.
 
 <!-- div align="center">
   <a href="https://github.com/YngviWarrior">
