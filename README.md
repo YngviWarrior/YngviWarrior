@@ -7,7 +7,7 @@
 - 🌱 I’m a Golang developer.
 - 👯 I’m looking to collaborate on financial solutions.
 - 🤔 I think we need always improve ourselves, but in a sustentable way.
-- ⚡ Fun fact: I am an investor, i like to see my money grows.
+- ⚡ Fun fact: I am an gamer, i enjoy challanges.
 
 <!-- div align="center">
   <a href="https://github.com/YngviWarrior">
